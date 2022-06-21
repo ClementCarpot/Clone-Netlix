@@ -1,5 +1,5 @@
 # Clone-Netlix
 
-Pour voir le rendu, veuillez <html> <a href="https://clementcarpot.github.io/Clone-Netlix/" target="_blank">cliquer ici</a> </html>
+Pour voir le rendu, veuillez <a href="https://clementcarpot.github.io/Clone-Netlix/">cliquer ici</a>
 
 Auteur : Clément CARPOT
